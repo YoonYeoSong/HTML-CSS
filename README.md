@@ -1,6 +1,6 @@
 # HTML-CSS
 
-======
+
 HTML
 ======
 HT - HyperText, 문서와 문서가 리크로 연결되어 있다.
