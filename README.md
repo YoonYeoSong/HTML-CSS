@@ -1,6 +1,18 @@
 # HTML-CSS
 
 
+필요 기술
+========
+- HTML : tags & attributes, Semantic web
+- CSS : Layout(float,flex,grid), transition/ animation, 반응형 웹, Preprocessor(Sass, PostCSS), CSS방법론(BEM), CSS 프레임워크
+- 크로스 브라우징
+- JavaScript: ES5, ES6, ES Next, DOM/Evnet, Ajax, 동작원리 (브라우저, 자바스크립트 엔진), Node.js
+- HTTP
+- Tools : Git, Webpack, Babel, ESLint, npm...
+- Libary / Framework : SPA(ANgular, React, Vue.js), TypeScript, JQuery, Lodash, Axios..
+- TDD (Test Driven Development): karma / jasmine, mocha, chai
+- 알고리즘 / 자료구조
+
 HTML
 ======
 HT - HyperText, 문서와 문서가 리크로 연결되어 있다. <br/>
