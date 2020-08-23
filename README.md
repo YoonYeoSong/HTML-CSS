@@ -2,7 +2,7 @@
 ---------------------------------
 
 ## 필요 기술
-===
+
 - HTML : tags & attributes, Semantic web
 - CSS : Layout(float,flex,grid), transition/ animation, 반응형 웹, Preprocessor(Sass, PostCSS), CSS방법론(BEM), CSS 프레임워크
 - 크로스 브라우징
@@ -14,14 +14,14 @@
 - 알고리즘 / 자료구조
 
 ## HTML
-===
+
 
 HT - HyperText, 문서와 문서가 리크로 연결되어 있다.
 M - Markup, 태그로 이루어져 있다. 
 L - Language. 
 
 ## CSS - Cascading Style Sheet
-===
+
 
 ## 1. head 요소의 역할
 
