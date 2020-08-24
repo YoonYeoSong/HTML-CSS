@@ -13,6 +13,13 @@
 - TDD (Test Driven Development): karma / jasmine, mocha, chai
 - 알고리즘 / 자료구조
 
+## 이미지
+- 비트맵 - 정교하고 다양한 색상을 자연스럽게 표현, 하지만 확대/축소시 계단현상 품질저하
+- 벡터 - 확대/축소에 자유로움 용량변화 x, 정교한 이미지를 표현하기 어려움
+
+- jpg(jpeg) - full color와 gray-scale
+  -
+
 ## HTML
 
 
